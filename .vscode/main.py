@@ -120,7 +120,7 @@ class MyClient(discord.Client):
 
 #client = MyClient()
 
-TOKEN = 'NzQ0MTYzOTY1NDcwNTA3MDY4.XzfOsw.oNKTy9OjVVyMS0wB-KYJMXw1Pow'
+TOKEN = 'your-token'
 client.run(TOKEN)
 
 typeRacerInit = False
